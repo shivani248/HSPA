@@ -1,0 +1,6 @@
+.navbar-collapse {
+    visibility: visible !important;
+    height: auto !important;
+    display: flex !important;
+    opacity: 1 !important;
+  }
